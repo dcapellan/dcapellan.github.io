@@ -39,8 +39,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Denny Capellan",
+        "meta_descr": "Software Engineer",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
